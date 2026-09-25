@@ -1,0 +1,9 @@
+{
+  "name": "modlens",
+  "version": "1.0.0",
+  "description": "ModLens：图像结构化解析插件，将截图/图片转为文本证据",
+  "interface": {
+    "displayName": "ModLens",
+    "shortDescription": "图片视觉解析工具"
+  }
+}
